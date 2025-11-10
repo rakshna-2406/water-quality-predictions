@@ -6,4 +6,4 @@ Machine Learning project to predict whether water is clean or dirty using the Cl
 The dataset used in this project is the **Clean vs Dirty Water Image Dataset** from Kaggle.  
 It contains labeled images of **clean** and **dirty water samples** used to train the machine learning model.  
 
-**Folder Structure:**
+
